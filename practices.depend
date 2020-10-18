@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603044989 source:/home/mizan/Documents/PGDIT-JU/class/PGD-101 Introduction to IT and Programming/Assignments/practices/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
